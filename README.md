@@ -80,7 +80,7 @@ E-Commerce-Sales-Dashboard-PowerBI
 
 ## 📷 Dashboard Preview
 
-
+<img width="1163" height="652" alt="Image" src="https://github.com/user-attachments/assets/eab58aee-46c7-49c5-850f-64619269a2b5" />
 
 ---
 
